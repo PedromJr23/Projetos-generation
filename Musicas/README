@@ -1,0 +1,31 @@
+🎵 README – Projeto: Análise de Músicas
+📌 Visão Geral
+
+Este projeto realiza a leitura e análise de dados musicais a partir de arquivos CSV.
+O objetivo é classificar músicas, exibir informações estruturadas e demonstrar conceitos básicos de manipulação de dados com Python.
+
+🧩 Funcionalidades
+
+Leitura de arquivos CSV
+
+Estruturação e limpeza de dados
+
+Classificação simples de músicas
+
+Impressão organizada das informações
+
+Uso de listas, dicionários e loops
+
+🛠️ Tecnologias
+
+Python 3
+
+CSV (módulo csv)
+
+📂 Estrutura
+Musicas/
+│── data/
+│   └── musica.csv
+│── src/
+│   └── classificacao_musicas.py
+└── README.md
