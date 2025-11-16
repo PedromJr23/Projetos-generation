@@ -1,0 +1,35 @@
+📌 Objetivo do Projeto
+
+Desenvolver uma base sólida de leitura e processamento de dados usando Python, simulando um cenário real de análise simples.
+
+🧮 README – Projeto: Calculadora Nutricional + IMC
+📌 Visão Geral
+
+Este projeto reúne cálculos de consumo calórico, soma de proteínas e avaliação do IMC do usuário. A ferramenta simula uma calculadora nutricional básica que auxilia no entendimento de ingestão alimentar.
+
+🧩 Funcionalidades
+
+Soma de calorias com base em alimentos cadastrados
+
+Cálculo de proteínas ingeridas
+
+Cálculo automático do IMC
+
+Parecer sobre a condição física (baixo peso, normal, sobrepeso, etc.)
+
+Estruturas condicionais e modularização
+
+🛠️ Tecnologias
+
+Python 3
+
+CSV para tabela de alimentos
+
+📂 Estrutura
+Calculadora/
+│── data/
+│   └── alimentos.csv
+│── src/
+│   ├── calculadora_calorias.py
+│   └── imc.py
+└── README.md
